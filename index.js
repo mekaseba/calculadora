@@ -13,7 +13,7 @@ sumEl.textContent = "Answer = " + result
 
 function sub() {
 let result = one - two 
-sumEl.textcontent = "Answer = " + result 
+sumEl.textContent = "Answer = " + result 
 }
 
 function mul() {
@@ -23,5 +23,5 @@ sumEl.textContent = "Answer = " + result
 
 function div() {
 let result = one / two
-sumEl.textcontent = "Answer = " + result 
+sumEl.textContent = "Answer = " + result 
 }
